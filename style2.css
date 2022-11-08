@@ -1,0 +1,14 @@
+button{
+    margin: 100px; padding: 20px;
+    }
+    #danger{
+    position: absolute; right: 0;
+    bottom: 0;
+    width: 10%; height: 400px;
+    background-color: blue;
+    }
+    #dangermsg{
+    position: absolute; right: 0;
+    bottom: 0;
+    width: 10%; height: 100px;
+    
